@@ -33,6 +33,11 @@ body {
   font-style: normal;
 }
 
+nav-list-item a:hover,
+.nav-list-item a:focus {
+  color: #404bbf;
+}
+
 .address-list-item-link {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
