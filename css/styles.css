@@ -33,6 +33,10 @@ body {
   font-style: normal;
 }
 
+.nav-content {
+  list-style-type: none;
+}
+
 nav-list-item a:hover,
 .nav-list-item a:focus {
   color: #404bbf;
@@ -48,6 +52,7 @@ nav-list-item a:hover,
 }
 .hero {
   background-color: #2e2f42;
+  list-style-type: none;
 }
 .hero-title {
   font-family: "Roboto", sans-serif;
@@ -78,4 +83,8 @@ hero-button {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.team {
+  list-style-type: none;
 }
