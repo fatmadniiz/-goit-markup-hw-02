@@ -13,11 +13,6 @@ body {
   color: #4d5ae5;
 }
 
-.logo:focus,
-.logo:hover {
-  color: #404bbf;
-}
-
 .logo-span {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
