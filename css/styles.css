@@ -38,11 +38,13 @@ body {
   list-style-type: none;
 }
 
-nav-list-item a:hover,
-.nav-list-item a:focus {
+list-item-link:hover {
   color: #404bbf;
 }
 
+list-item-link:focus {
+  color: #404bbf;
+}
 .address-list-item-link {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
