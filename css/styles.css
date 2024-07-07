@@ -26,6 +26,21 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.nav-list .nav-list-item .list-item-link:hover,
+.nav-list .nav-list-item .list-item-link:focus {
+  color: #404bbf;
+}
+/*
+list-item-link:hover {
+  color: #404bbf;
+}
+
+list-item-link:focus {
+  color: #404bbf;
+}
+  */
+
 .address-content {
   font-style: normal;
 }
@@ -34,13 +49,6 @@ body {
   list-style-type: none;
 }
 
-list-item-link:hover {
-  color: #404bbf;
-}
-
-list-item-link:focus {
-  color: #404bbf;
-}
 .address-list-item-link {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
