@@ -95,7 +95,9 @@ list-item-link:focus {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
+
 .text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -107,6 +109,7 @@ list-item-link:focus {
 
 .team {
   list-style-type: none;
+  background-color: #f4f4fd;
 }
 
 .title {
@@ -115,4 +118,8 @@ list-item-link:focus {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.team .team-list .team-member {
+  background-color: #ffffff;
 }
