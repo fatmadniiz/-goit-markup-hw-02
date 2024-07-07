@@ -123,3 +123,16 @@ list-item-link:focus {
 .team .team-list .team-member {
   background-color: #ffffff;
 }
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer-logo-section {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+}
+
+.footer-text {
+  color: #f4f4fd;
+}
