@@ -57,6 +57,11 @@ list-item-link:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.address-list-item-link:hover,
+.address-list-item-link:focus {
+  color: #404bbf;
+}
+
 .hero {
   background-color: #2e2f42;
   list-style-type: none;
