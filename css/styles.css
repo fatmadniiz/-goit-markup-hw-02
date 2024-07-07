@@ -71,7 +71,7 @@ list-item-link:focus {
   color: #ffffff;
 }
 
-button {
+.hero-button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -80,6 +80,7 @@ button {
   color: #ffffff;
   background-color: #404bbf;
   cursor: pointer;
+  line-height: 1.5;
 }
 
 .team-title {
